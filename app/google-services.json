@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "112158440461",
+    "firebase_url": "https://speechoscope-a717f.firebaseio.com",
+    "project_id": "speechoscope-a717f",
+    "storage_bucket": "speechoscope-a717f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112158440461:android:459f2664d5902752",
+        "android_client_info": {
+          "package_name": "com.example.speechoscope"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "112158440461-vl4v84q3ac48kr9r4ehkv172oe6q7ehn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.speechoscope",
+            "certificate_hash": "a9b100a773c6eb2071cbcdeb53c58ab7efc3dc02"
+          }
+        },
+        {
+          "client_id": "112158440461-k4094akkcr3jkbflcpecj3jonpuvtqgt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.speechoscope",
+            "certificate_hash": "32018e3f957c1cb75a91fca8ff4b76ab4e63f523"
+          }
+        },
+        {
+          "client_id": "112158440461-90ft0p8hm17snp4kv32pd7sdedsiu8k6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-IAo-Lqimv-f0e_ijwNaq6IhaUvGCFfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "112158440461-90ft0p8hm17snp4kv32pd7sdedsiu8k6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
